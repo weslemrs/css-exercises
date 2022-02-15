@@ -1,0 +1,25 @@
+*{
+    font-family: Arial;
+}
+p{
+    background-color: rgb(247, 174, 174);
+    color: black;
+}
+.primeiro{
+    font-size: 20px;
+}
+.segundo{
+    font-size: 30px;
+}
+.terceiro{
+    font-size: 15px;
+}
+#first{
+    color: blue;
+    font-size: 40px;
+}
+#second{
+    background-color: rgb(69, 138, 86);
+    font-size: 28px;
+    font-style: bold;
+}
